@@ -1,0 +1,7 @@
+name: staging-environment
+home: https://jstrachan/test-env-stage
+version: 0.0.1-DEV
+description: staging environment
+maintainers:
+  - name: fabric8 Team
+    email: fabric8@googlegroups.com
